@@ -1,6 +1,6 @@
 # Hi, I'm Max 👋
 
-### Frontend Developer
+### JavaScript Developer
 
 🔭 I’m currently working on web applications that make a difference.
 
